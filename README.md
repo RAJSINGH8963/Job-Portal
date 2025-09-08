@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo:
    ```sh
-   https://github.com/Vishalthakur06/Job_Portal.git
+   https://github.com/RAJSINGH8963/Job_Portal.git
    ```
 2. Install NPM packages:
 
